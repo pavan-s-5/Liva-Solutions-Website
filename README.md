@@ -5,6 +5,8 @@ This project is a WordPress website for a digital marketing agency, designed to 
 
 WEBSITE LINK : https://livasolutions.in/
 
+NOTE : THERE IS NO CODE FILE AVAILABLE FOR THIS REPO, AS THIS WEBSITE WAS CREATED USING WORDPRESS
+
 **Features :**
 ----------------
 
@@ -49,3 +51,7 @@ Share industry insights and updates via the blog section.
 
 **Images :**
 ----------------
+<img width="929" alt="Liva-website" src="https://github.com/pavan-s-5/Liva-Solutions-Website/assets/131233727/1fef396b-c9e2-4933-8053-3b9315a0dde7">
+
+
+<img width="931" alt="liva-2" src="https://github.com/pavan-s-5/Liva-Solutions-Website/assets/131233727/05f30aa4-85d3-4e01-9fdd-e9c77c261300">
